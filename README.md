@@ -1,43 +1,55 @@
-# NexT
+# jekyll-theme-EasyBook
 
-> 精于心，简于形
+Another Jekyll Blog Theme "EasyBook"
 
-<a href="http://notes.iissnan.com" target="_blank">在线预览 Preview</a> | <a href="http://theme-next.iissnan.com" target="_blank">NexT 使用文档</a> |  [English Documentation](README.en.md)
+Start blogging with a simple but powerful theme.
 
-[![Join the chat at https://gitter.im/iissnan/hexo-theme-next](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/iissnan/hexo-theme-next?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+## Features
 
-![NexT Schemes](http://iissnan.com/nexus/next/next-schemes.jpg)
+- Everything Basic Jekyll has.
+- **Pagination** is enabled.
+- **Comments** using Disqus or 多说.
+- **TOC** makes reading easier.
+- **Profile** including your links and avatar on the sidebar.
+- *And more...*
 
+## Install
 
-## 浏览器支持 Browser support
+Read [Quick Guide] to learn how to install and publish.
 
-![Browser support](http://iissnan.com/nexus/next/browser-support.png)
+Read [Welcome to Jekyll and EasyBook][helloPost] and [Jekyll][jekyll] for further information.
 
+**If need help, please:**
 
-## 贡献 Contributing
+ - [**Read Wiki pages**](https://github.com/laobubu/jekyll-theme-EasyBook/wiki)
+ - **Google it**
+ - [**Submit an issue**](https://github.com/laobubu/jekyll-theme-EasyBook/issues/new)
 
-接受各种形式的贡献，包括不限于提交问题与需求，修复代码。等待您的`Pull Request`。
+## Donate
 
-Any types of contribution are welcome. Thanks.
+Buy me a coffee if you find EasyBook useful for you :smiley:
 
-## 开发 Development
+Visit <http://laobubu.net/donate.html>
 
-NexT 主旨在于简洁优雅且易于使用，所以首先要尽量确保 NexT 的简洁易用性。
+## Demo
 
-NexT is built for easily use with elegant appearance. First things first, always keep things simple.
+[laobubu's blog](http://blog.laobubu.net) | [empty site](http://laobubu.github.io/jekyll-theme-EasyBook)
 
-## [开发历史 Changelog](https://github.com/iissnan/hexo-theme-next/wiki/Changelog)
+![Homepage](https://ooo.0o0.ooo/2016/02/11/56bc997c65daf.png)
 
-[![hexo-image]][hexo-url]
-[![bower-image]][bower-url]
-[![jquery-image]][jquery-url]
-[![velocity-image]][velocity-url]
+## License
 
-[hexo-image]: http://img.shields.io/badge/Hexo-2.4+-2BAF2B.svg?style=flat-square
-[hexo-url]: http://hexo.io
-[bower-image]: http://img.shields.io/badge/Bower-*-2BAF2B.svg?style=flat-square
-[bower-url]: http://bower.io
-[jquery-image]: https://img.shields.io/badge/jquery-2.1-2BAF2B.svg?style=flat-square
-[jquery-url]: http://jquery.com/
-[velocity-image]: https://img.shields.io/badge/Velocity-1.2-2BAF2B.svg?style=flat-square
-[velocity-url]: http://julian.com/research/velocity/
+```
+The MIT License (MIT)
+Copyright (c) 2016 laobubu
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
+[Quick Guide]: https://github.com/laobubu/jekyll-theme-EasyBook/wiki/Quick-Guide
+[helloPost]: http://laobubu.github.io/jekyll-theme-EasyBook/archivers/hello
+[jekyll]: http://jekyllrb.com/
